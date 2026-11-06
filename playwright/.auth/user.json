@@ -1,0 +1,39 @@
+{
+  "cookies": [
+    {
+      "name": "csrftoken",
+      "value": "n5J2VsvPe4oASpLLWJUs83VKwFYy2OHP",
+      "domain": "hr.demo.horilla.com",
+      "path": "/",
+      "expires": 1825396043.61029,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sessionid",
+      "value": "x5avp4nbmj3otl3ypwec26411z6zqn6h",
+      "domain": "hr.demo.horilla.com",
+      "path": "/",
+      "expires": 1793989646.25113,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://hr.demo.horilla.com",
+      "localStorage": [
+        {
+          "name": "hlv_last_company",
+          "value": "1"
+        },
+        {
+          "name": "md_auto_refresh",
+          "value": "on"
+        }
+      ]
+    }
+  ]
+}
